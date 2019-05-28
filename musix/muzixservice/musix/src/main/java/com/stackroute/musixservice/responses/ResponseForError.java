@@ -1,4 +1,4 @@
-package com.stackroute.musixservice.responces;
+package com.stackroute.musixservice.responses;
 
 import lombok.Data;
 
