@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MusixMicroservices.iml" filepath="$PROJECT_DIR$/.idea/MusixMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/spring-boot-zuulgatewayprosy.iml" filepath="$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/spring-boot-zuulgatewayprosy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/userservice/userservice.iml" filepath="$PROJECT_DIR$/user/userservice/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musix/musix with mongo/userservice (1).iml" filepath="$PROJECT_DIR$/musix/musix with mongo/userservice (1).iml" />
     </modules>
   </component>
 </project>

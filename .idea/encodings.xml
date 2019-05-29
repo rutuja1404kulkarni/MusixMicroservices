@@ -2,5 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ccs/spring-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/musix/musix with mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/userservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy" charset="UTF-8" />
   </component>
 </project>
