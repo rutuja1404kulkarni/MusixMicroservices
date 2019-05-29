@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="userservice" />
         <module name="spring-config-server" />
+        <module name="userservice (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
