@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/SpringBootZuulgatewayprosyApplication/spring-boot-zuulgatewayprosy.iml" filepath="$PROJECT_DIR$/api/SpringBootZuulgatewayprosyApplication/spring-boot-zuulgatewayprosy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosyApplication/spring-boot-zuulgatewayprosy (1).iml" filepath="$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosyApplication/spring-boot-zuulgatewayprosy (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musix with mongo/userservice.iml" filepath="$PROJECT_DIR$/musix with mongo/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice (1).iml" filepath="$PROJECT_DIR$/userservice/userservice (1).iml" />
+    </modules>
+  </component>
+</project>
