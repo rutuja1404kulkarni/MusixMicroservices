@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="userservice" />
         <module name="spring-config-server" />
+<<<<<<< HEAD:user/userservice/.idea/compiler.xml
         <module name="spring-eureka-client-muzix-service" />
+=======
+        <module name="userservice (1)" />
+>>>>>>> 9c7079737d21f517dde977e3938ea921b4b20261:.idea/compiler.xml
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
