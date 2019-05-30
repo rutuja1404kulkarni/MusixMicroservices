@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb6b99f-5035-4fa3-ad9a-62219313e002" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
 <<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" afterDir="false" />
@@ -192,59 +193,241 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+=======
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-user-client.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-user-client.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/MusixServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/config/SwaggerConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/controller/TrackController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/exception/TrackAlreadyExistsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/exception/TrackGlobalExceptionHandle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/exception/TrackNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/model/Track.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/repository/TrackRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/responces/ResponseForError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/seeddata/SeedData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/service/TrackService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/service/TrackServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/resources/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/test/java/com/stackroute/musixservice/MusixServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/test/java/com/stackroute/musixservice/controller/musixControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/test/java/com/stackroute/musixservice/repository/musixRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/test/java/com/stackroute/musixservice/service/musixServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/configuration/WebConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/resources/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/userservice/src/test/java/com/stackroute/userservice/UserserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/muzixservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/MusixServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/controller/TrackController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/exception/TrackAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/exception/TrackGlobalExceptionHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/exception/TrackNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/model/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/repository/TrackRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/responces/ResponseForError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/service/TrackService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/classes/com/stackroute/musixservice/service/TrackServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/TEST-com.stackroute.musixservice.MusixServiceApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/TEST-com.stackroute.musixservice.controller.musixControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/TEST-com.stackroute.musixservice.repository.musixRepositoryTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/TEST-com.stackroute.musixservice.service.musixServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/com.stackroute.musixservice.MusixServiceApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/com.stackroute.musixservice.controller.musixControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/com.stackroute.musixservice.repository.musixRepositoryTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/surefire-reports/com.stackroute.musixservice.service.musixServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/test-classes/com/stackroute/musixservice/MusixServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/test-classes/com/stackroute/musixservice/controller/musixControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/test-classes/com/stackroute/musixservice/repository/musixRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/test-classes/com/stackroute/musixservice/service/musixServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/userservice-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/target/userservice-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musix/musix with mongo/userservice (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/MusixMicroservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/compiler.xml~HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/encodings.xml~HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__joda_time_joda_time_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_25_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_orm_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/misc.xml~HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/UserserviceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/configuration/WebConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/classes/com/stackroute/userservice/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/target/test-classes/com/stackroute/userservice/UserserviceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/userservice (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/userservice/userservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ccs/spring-config-server/target/" />
     <ignored path="$PROJECT_DIR$/user/userservice/target/" />
     <ignored path="$PROJECT_DIR$/../musix with mongo/target/" />
     <ignored path="$PROJECT_DIR$/userservice/target/" />
+<<<<<<< HEAD
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+    <ignored path="$PROJECT_DIR$/musix with mongo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-eureka-client-muzix-service/target/" />
+    <ignored path="$PROJECT_DIR$/spring-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/zuulgateway/SpringBootZuulgatewayprosyApplication/target/" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,6 +441,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -268,11 +452,18 @@
             <state relative-caret-position="144">
               <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+        <entry file="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/src/main/java/com/stackroute/SpringBootZuulgatewayprosyApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/src/main/java/com/stackroute/SpringBootZuulgatewayprosyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -280,14 +471,18 @@
               <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
 =======
         <entry file="file://$PROJECT_DIR$/userservice/pom.xml">
+=======
+        <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/java/com/stackroute/springeurekaserver/SpringEurekaServerApplication.java">
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="192">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -328,11 +523,28 @@
             <state relative-caret-position="216">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+        <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/MusixServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -390,23 +602,41 @@
               <caret line="9" column="3" lean-forward="true" selection-end-line="17" />
             </state>
           </provider>
+=======
+        <entry file="file://$PROJECT_DIR$/userservice/mvnw.cmd">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/userservice/mvnw">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/bootstrap.properties">
+        <entry file="file://$PROJECT_DIR$/userservice/HELP.md">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="120">
               <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+            <state relative-caret-position="264">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
             </state>
           </provider>
         </entry>
@@ -442,13 +672,16 @@
         <option value="$PROJECT_DIR$/user/userservice/pom.xml" />
         <option value="$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/configuration/WebConfiguration.java" />
         <option value="$PROJECT_DIR$/user/userservice/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/userservice/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/config-user-client.properties" />
-        <option value="$PROJECT_DIR$/userservice/pom.xml" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserService.java" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/userservice/pom.xml" />
+        <option value="$PROJECT_DIR$/musix with mongo/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/ccs/spring-config-server/Dockerfile" />
+        <option value="$PROJECT_DIR$/ccs/spring-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-user-client.properties" />
         <option value="$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
       </list>
@@ -464,10 +697,6 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="userservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -493,16 +722,16 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MusixMicroservices" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-eureka-client-muzix-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="MusixMicroservices" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
               <item name="musix" type="462c0819:PsiDirectoryNode" />
@@ -518,30 +747,35 @@
               <item name="musix with mongo" type="462c0819:PsiDirectoryNode" />
 =======
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MusixMicroservices" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MusixMicroservices" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MusixMicroservices" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
             </path>
@@ -554,10 +788,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
 =======
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="springeurekaserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-eureka-server" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="configuration" type="462c0819:PsiDirectoryNode" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
             </path>
@@ -618,10 +863,27 @@
               <item name="musixservice" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
 =======
+=======
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
@@ -687,26 +949,37 @@
               <item name="zuulgateway" type="462c0819:PsiDirectoryNode" />
               <item name="spring-boot-zuulgatewayprosy" type="462c0819:PsiDirectoryNode" />
 =======
+=======
+            </path>
+            <path>
+              <item name="MusixMicroservices" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/musix/musix with mongo/pom.xml" />
 =======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/userservice/pom.xml" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuulgateway/SpringBootZuulgatewayprosyApplication/pom.xml" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -721,7 +994,11 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.MusixServiceApplication">
+=======
+  <component name="RunManager" selected="Application.SpringConfigServerApplication">
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
     <configuration name="MusixServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.musixservice.MusixServiceApplication" />
       <module name="userservice (1)" />
@@ -735,6 +1012,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="SpringBootZuulgatewayprosyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.SpringBootZuulgatewayprosyApplication" />
       <module name="spring-boot-zuulgatewayprosy" />
@@ -751,6 +1029,8 @@
 =======
   <component name="RunManager" selected="Application.UserserviceApplication">
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
     <configuration name="SpringConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.springconfigserver.SpringConfigServerApplication" />
       <module name="spring-config-server" />
@@ -780,12 +1060,17 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Application.MusixServiceApplication" />
         <item itemvalue="Application.SpringBootZuulgatewayprosyApplication" />
 =======
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
         <item itemvalue="Application.UserserviceApplication" />
+=======
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
         <item itemvalue="Application.SpringConfigServerApplication" />
+        <item itemvalue="Application.MusixServiceApplication" />
+        <item itemvalue="Application.UserserviceApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -812,25 +1097,35 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25958306" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24680565" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38873994" />
 =======
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42627347" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06568365" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.04155496" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
@@ -838,6 +1133,9 @@
       <window_info anchor="bottom" id="Messages" order="10" />
 =======
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32573727" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34048256" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -849,12 +1147,19 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="right" id="Maven" order="6" weight="0.32952252" />
 =======
       <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.073974445" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+      <window_info anchor="right" id="Maven" order="6" weight="0.24344318" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cmd" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/musix/muzixservice/musix/src/main/resources/application.properties" />
@@ -864,6 +1169,7 @@
 =======
     <entry file="file://$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/service/UserService.java" />
     <entry file="file://$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -872,6 +1178,8 @@
       </provider>
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
     </entry>
+=======
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
     <entry file="file://$PROJECT_DIR$/musix/musix with mongo/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/musix/musix with mongo/src/main/resources/bootstrap.properties" />
     <entry file="file://$PROJECT_DIR$/user/userservice/src/main/resources/application.properties" />
@@ -881,8 +1189,9 @@
     <entry file="file://$PROJECT_DIR$/musix/musix with mongo/src/main/java/com/stackroute/musixservice/MusixServiceApplication.java" />
     <entry file="file://$PROJECT_DIR$/musix/musix with mongo/pom.xml" />
     <entry file="file://$PROJECT_DIR$/user/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java" />
-    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/src/main/java/com/stackroute/springconfigserver/SpringConfigServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/configuration/WebConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="200">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
@@ -919,38 +1228,120 @@
 =======
         <state relative-caret-position="144">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
+        <state relative-caret-position="216">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="91" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-music-client.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="96">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/bootstrap.properties">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musix with mongo/src/main/java/com/stackroute/musixservice/model/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musix with mongo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
+<<<<<<< HEAD
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musix with mongo/src/main/java/com/stackroute/musixservice/controller/TrackController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/src/main/java/com/stackroute/springconfigserver/SpringConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
         </state>
       </provider>
     </entry>
@@ -988,57 +1379,97 @@
           <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
 =======
         <state relative-caret-position="144">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccs/spring-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-music-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musix with mongo/src/main/java/com/stackroute/musixservice/MusixServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musix with mongo/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/src/main/java/com/stackroute/SpringBootZuulgatewayprosyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/java/com/stackroute/springeurekaserver/SpringEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/userservice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="1152">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/configuration/WebConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/userservice/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="3" lean-forward="true" selection-end-line="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/userservice/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/userservice/HELP.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="14" lean-forward="true" selection-end-line="53" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/userservice/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/stackroute/userservice/UserserviceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="240">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
 >>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
+=======
+        <state relative-caret-position="264">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 1412e9780797626d8515082f65e90d555eaae6f8
         </state>
       </provider>
     </entry>
