@@ -4,9 +4,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ccs/spring-config-server/pom.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosy/pom.xml" />
         <option value="$PROJECT_DIR$/user/userservice/pom.xml" />
         <option value="$PROJECT_DIR$/musix/musix with mongo/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/user/userservice/pom.xml" />
+        <option value="$PROJECT_DIR$/userservice/pom.xml" />
+>>>>>>> ec965cd17098f3b1bf48161b8ae0476557e48b06
       </list>
     </option>
   </component>
