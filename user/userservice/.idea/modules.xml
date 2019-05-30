@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MusixMicroservices.iml" filepath="$PROJECT_DIR$/.idea/MusixMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/ccs/spring-config-server/spring-config-server.iml" />
+<<<<<<< HEAD:user/userservice/.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-client-muzix-service/spring-eureka-client-muzix-service.iml" filepath="$PROJECT_DIR$/spring-eureka-client-muzix-service/spring-eureka-client-muzix-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/userservice/userservice.iml" filepath="$PROJECT_DIR$/user/userservice/userservice.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musix with mongo/userservice (1).iml" filepath="$PROJECT_DIR$/musix with mongo/userservice (1).iml" />
+>>>>>>> 9c7079737d21f517dde977e3938ea921b4b20261:.idea/modules.xml
+    </modules>
+  </component>
+</project>

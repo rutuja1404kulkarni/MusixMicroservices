@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="userservice" />
+        <module name="spring-config-server" />
+<<<<<<< HEAD:user/userservice/.idea/compiler.xml
+        <module name="spring-eureka-client-muzix-service" />
+=======
+        <module name="userservice (1)" />
+>>>>>>> 9c7079737d21f517dde977e3938ea921b4b20261:.idea/compiler.xml
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-config-server" target="11" />
+      <module name="spring-eureka-client-muzix-service" target="11" />
+      <module name="userservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-config-server" options="-parameters" />
+      <module name="spring-eureka-client-muzix-service" options="-parameters" />
+      <module name="userservice" options="-parameters" />
+    </option>
+  </component>
+</project>

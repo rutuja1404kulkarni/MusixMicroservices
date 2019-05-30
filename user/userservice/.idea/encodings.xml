@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ccs/spring-config-server" charset="UTF-8" />
+<<<<<<< HEAD:user/userservice/.idea/encodings.xml
+    <file url="file://$PROJECT_DIR$/spring-eureka-client-muzix-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/userservice" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/musix with mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../musix with mongo" charset="UTF-8" />
+>>>>>>> 9c7079737d21f517dde977e3938ea921b4b20261:.idea/encodings.xml
+  </component>
+</project>
