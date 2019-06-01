@@ -6,26 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-zuulgatewayprosy" />
-        <module name="userservice" />
         <module name="spring-config-server" />
+        <module name="userservice" />
         <module name="spring-boot-zuulgatewayprosy (1)" />
+        <module name="spring-boot-zuulgatewayprosy" />
+        <module name="muzixservice" />
         <module name="userservice (1)" />
+        <module name="spring-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="muzixservice" target="11" />
       <module name="spring-boot-zuulgatewayprosy" target="1.8" />
       <module name="spring-boot-zuulgatewayprosy (1)" target="1.8" />
       <module name="spring-config-server" target="11" />
+      <module name="spring-eureka-server" target="11" />
       <module name="userservice" target="11" />
       <module name="userservice (1)" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="muzixservice" options="-parameters" />
       <module name="spring-boot-zuulgatewayprosy" options="-parameters" />
       <module name="spring-boot-zuulgatewayprosy (1)" options="-parameters" />
       <module name="spring-config-server" options="-parameters" />
+      <module name="spring-eureka-server" options="-parameters" />
       <module name="userservice" options="-parameters" />
       <module name="userservice (1)" options="-parameters" />
     </option>
