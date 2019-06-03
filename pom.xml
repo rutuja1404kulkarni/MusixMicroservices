@@ -16,12 +16,11 @@
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
 	<modules>
-		<module>musix with mongo</module>
-		<module>SpringBootZuulgatewayprosyApplication</module>
+		<module>spring-track-service</module>
+		<module>spring-api-server</module>
 		<module>spring-config-server</module>
 		<module>spring-eureka-server</module>
-		<module>userservice</module>
-
+		<module>spring-user-service</module>
 	</modules>
 
 
