@@ -16,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="musix-microservices" target="11" />
       <module name="muzixservice" target="11" />
       <module name="spring-boot-zuulgatewayprosy" target="1.8" />
       <module name="spring-boot-zuulgatewayprosy (1)" target="1.8" />
@@ -27,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="musix-microservices" options="-parameters" />
       <module name="muzixservice" options="-parameters" />
       <module name="spring-boot-zuulgatewayprosy" options="-parameters" />
       <module name="spring-boot-zuulgatewayprosy (1)" options="-parameters" />

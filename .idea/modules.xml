@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/musix with mongo/muzixservice.iml" filepath="$PROJECT_DIR$/musix with mongo/muzixservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBootZuulgatewayprosyApplication/spring-boot-zuulgatewayprosy.iml" filepath="$PROJECT_DIR$/SpringBootZuulgatewayprosyApplication/spring-boot-zuulgatewayprosy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musix-microservices.iml" filepath="$PROJECT_DIR$/musix-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-track-service/muzixservice.iml" filepath="$PROJECT_DIR$/spring-track-service/muzixservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-api-server/spring-boot-zuulgatewayprosy.iml" filepath="$PROJECT_DIR$/spring-api-server/spring-boot-zuulgatewayprosy.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosyApplication/spring-boot-zuulgatewayprosy (1).iml" filepath="$PROJECT_DIR$/zuulgateway/spring-boot-zuulgatewayprosyApplication/spring-boot-zuulgatewayprosy (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" filepath="$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/userservice/userservice (1).iml" filepath="$PROJECT_DIR$/userservice/userservice (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-user-service/userservice.iml" filepath="$PROJECT_DIR$/spring-user-service/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-user-service/userservice (1).iml" filepath="$PROJECT_DIR$/spring-user-service/userservice (1).iml" />
     </modules>
   </component>
 </project>

@@ -14,10 +14,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>musix-microservices</name>
 	<description>Demo project for Spring Boot</description>
-
+	<packaging>pom</packaging>
 	<modules>
-		<module>spring-boot-zuulgatewayprosy</module>
-		<module>muzixservice</module>
+		<module>musix with mongo</module>
+		<module>SpringBootZuulgatewayprosyApplication</module>
 		<module>spring-config-server</module>
 		<module>spring-eureka-server</module>
 		<module>userservice</module>
